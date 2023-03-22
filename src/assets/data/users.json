@@ -1,0 +1,44 @@
+[
+    {
+      "uid": 275710,
+      "name": "Savannah Lamb",
+      "email": "savannahlamb@tribalog.com",
+      "teamName": "XTH"
+    },
+    {
+      "uid": 233624,
+      "name": "Wilkerson Kirk",
+      "email": "wilkersonkirk@xth.com",
+      "teamName": "COMTRAIL"
+    },
+    {
+      "uid": 204544,
+      "name": "Rachelle Sparks",
+      "email": "rachellesparks@comtrail.com",
+      "teamName": "SUSTENZA"
+    },
+    {
+      "uid": 143407,
+      "name": "Joy Jenkins",
+      "email": "joyjenkins@sustenza.com",
+      "teamName": "EARGO"
+    },
+    {
+      "uid": 181556,
+      "name": "Pamela Knowles",
+      "email": "pamelaknowles@eargo.com",
+      "teamName": "ACLIMA"
+    },
+    {
+      "uid": 268039,
+      "name": "Herring Garrison",
+      "email": "herringgarrison@aclima.com",
+      "teamName": "HAWKSTER"
+    },
+    {
+      "uid": 235269,
+      "name": "Sophie Wong",
+      "email": "sophiewong@hawkster.com",
+      "teamName": "INCUBUS"
+    }
+  ]

@@ -1,0 +1,61 @@
+<nav class="page-breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a routerLink=".">Manage Users</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Add New User</li>
+    </ol>
+  </nav>
+  
+  <div class="row">
+    <div class="col-md-12 stretch-card">
+      <div class="card">
+        <div class="card-body">
+          <h6 class="card-title">New User</h6>
+            <form>
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="mb-3">
+                    <label class="form-label">First Name</label>
+                    <input type="text" class="form-control" placeholder="Enter first name">
+                  </div>
+                </div><!-- Col -->
+                <div class="col-sm-6">
+                  <div class="mb-3">
+                    <label class="form-label">Last Name</label>
+                    <input type="text" class="form-control" placeholder="Enter last name">
+                  </div>
+                </div><!-- Col -->
+              </div><!-- Row -->
+              <div class="row">
+                <div class="col-sm-4">
+                  <div class="mb-3">
+                    <label class="form-label">UID</label>
+                    <input type="text" class="form-control" placeholder="Enter UID">
+                  </div>
+                </div><!-- Col -->
+                <div class="col-sm-4">
+                  <div class="mb-3">
+                    <label class="form-label">Email</label>
+                    <input type="text" class="form-control" placeholder="Enter Email">
+                  </div>
+                </div><!-- Col -->
+                <div class="col-sm-4">
+                  <div class="mb-3">
+                    <label for="exampleFormControlSelect1" class="form-label">Team Name</label>
+                    <select class="form-select" id="exampleFormControlSelect1">
+                        <option selected disabled>Select Team</option>
+                        <option>Team A</option>
+                        <option>Team B</option>
+                        <option>Team C</option>
+                        <option>Team D</option>
+                        <option>Team E</option>
+                    </select>
+                  </div>
+                </div><!-- Col -->
+              </div><!-- Row -->
+            </form>
+            <button type="button" class="btn btn-primary submit">Save User</button>
+            <!-- <button type="button" class="btn btn- submit">Cancel</button> -->
+        </div>
+      </div>
+    </div>
+  </div>

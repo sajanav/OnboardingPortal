@@ -1,0 +1,43 @@
+<nav class="page-breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a routerLink=".">Manage Teams</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Team List</li>
+    </ol>
+  </nav>
+  
+  <!-- <div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+      <div class="card">
+        <div class="card-body">
+          
+        </div>
+      </div>
+    </div>
+  </div> -->
+  
+  <div class="row">
+    <div class="col-md-12 stretch-card">
+      <div class="card">
+        <div class="card-body">
+          <h6 class="card-title">Teams</h6>
+          <button  type="button" class="btn btn-primary new-btn" (click)="addNewTeam()">New Team</button>
+          <div class="table-responsive">
+            <ngx-datatable
+              class="bootstrap"
+              [rows]="rows"
+              [loadingIndicator]="loadingIndicator"
+              [columnMode]="ColumnMode.force"
+              [footerHeight]="50"
+              [limit]="10"
+              rowHeight="auto"
+            >
+              <ngx-datatable-column name="Id" prop="teamId"></ngx-datatable-column>
+              <ngx-datatable-column name="Name" prop="company"></ngx-datatable-column>
+              <ngx-datatable-column name="isActive" prop="isActive"></ngx-datatable-column>
+              <ngx-datatable-column name="Members" prop="noOfMembers"></ngx-datatable-column>
+            </ngx-datatable>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

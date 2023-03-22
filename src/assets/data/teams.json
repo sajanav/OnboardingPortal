@@ -1,0 +1,282 @@
+[
+    {
+      "teamId": 0,
+      "company": "RUGSTARS",
+      "isActive": false,
+      "noOfMembers": 23,
+      "email": "tabatharios@rugstars.com",
+      "phone": "+1 (990) 400-3249",
+      "registered": "2019-01-09T11:35:07 -06:-30",
+      "icon": "<i class='action-icon mdi mdi-border-color' style:'font-size: 25px'></i> <i class='action-icon mdi mdi-delete'></i>"
+    },
+    {
+      "teamId": 1,
+      "company": "TOURMANIA",
+      "isActive": false,
+      "noOfMembers": 31,
+      "email": "tabatharios@tourmania.com",
+      "phone": "+1 (862) 413-3092",
+      "registered": "2018-12-28T10:26:50 -06:-30"
+    },
+    {
+      "teamId": 2,
+      "company": "CINASTER",
+      "isActive": false,
+      "noOfMembers": 42,
+      "email": "tabatharios@cinaster.com",
+      "phone": "+1 (842) 428-2552",
+      "registered": "2020-04-03T05:48:03 -06:-30"
+    },
+    {
+      "teamId": 3,
+      "company": "SHEPARD",
+      "isActive": true,
+      "noOfMembers": 27,
+      "email": "tabatharios@shepard.com",
+      "phone": "+1 (865) 419-3069",
+      "registered": "2014-02-05T10:24:47 -06:-30"
+    },
+    {
+      "teamId": 4,
+      "company": "LINGOnoOfMembers",
+      "isActive": true,
+      "noOfMembers": 21,
+      "email": "tabatharios@lingonoOfMembers.com",
+      "phone": "+1 (812) 590-3999",
+      "registered": "2014-08-24T03:40:40 -06:-30"
+    },
+    {
+      "teamId": 5,
+      "company": "JAMNATION",
+      "isActive": true,
+      "noOfMembers": 29,
+      "email": "tabatharios@jamnation.com",
+      "phone": "+1 (908) 559-2739",
+      "registered": "2018-12-06T11:29:10 -06:-30"
+    },
+    {
+      "teamId": 6,
+      "company": "ANDERSHUN",
+      "isActive": false,
+      "noOfMembers": 25,
+      "email": "tabatharios@andershun.com",
+      "phone": "+1 (896) 485-2847",
+      "registered": "2020-01-01T07:04:36 -06:-30"
+    },
+    {
+      "teamId": 7,
+      "company": "MITROC",
+      "isActive": false,
+      "noOfMembers": 24,
+      "email": "tabatharios@mitroc.com",
+      "phone": "+1 (855) 425-3099",
+      "registered": "2022-11-20T05:17:29 -06:-30"
+    },
+    {
+      "teamId": 8,
+      "company": "VERAQ",
+      "isActive": true,
+      "noOfMembers": 9,
+      "email": "tabatharios@veraq.com",
+      "phone": "+1 (977) 440-2477",
+      "registered": "2019-12-27T01:24:16 -06:-30"
+    },
+    {
+      "teamId": 9,
+      "company": "FREAKIN",
+      "isActive": false,
+      "noOfMembers": 36,
+      "email": "tabatharios@freakin.com",
+      "phone": "+1 (996) 415-2534",
+      "registered": "2022-11-10T05:06:07 -06:-30"
+    },
+    {
+      "teamId": 10,
+      "company": "LYRIA",
+      "isActive": false,
+      "noOfMembers": 39,
+      "email": "tabatharios@lyria.com",
+      "phone": "+1 (991) 415-2579",
+      "registered": "2014-08-01T03:49:14 -06:-30"
+    },
+    {
+      "teamId": 11,
+      "company": "AQUAMATE",
+      "isActive": true,
+      "noOfMembers": 22,
+      "email": "tabatharios@aquamate.com",
+      "phone": "+1 (878) 488-2706",
+      "registered": "2017-09-24T11:22:42 -06:-30"
+    },
+    {
+      "teamId": 12,
+      "company": "MAINELAND",
+      "isActive": false,
+      "noOfMembers": 4,
+      "email": "tabatharios@maineland.com",
+      "phone": "+1 (994) 430-2631",
+      "registered": "2019-04-23T06:32:38 -06:-30"
+    },
+    {
+      "teamId": 13,
+      "company": "KONNECT",
+      "isActive": true,
+      "noOfMembers": 48,
+      "email": "tabatharios@konnect.com",
+      "phone": "+1 (839) 526-3690",
+      "registered": "2021-10-02T08:06:59 -06:-30"
+    },
+    {
+      "teamId": 14,
+      "company": "DANJA",
+      "isActive": false,
+      "noOfMembers": 9,
+      "email": "tabatharios@danja.com",
+      "phone": "+1 (917) 550-3619",
+      "registered": "2018-02-20T11:00:40 -06:-30"
+    },
+    {
+      "teamId": 15,
+      "company": "KOG",
+      "isActive": false,
+      "noOfMembers": 17,
+      "email": "tabatharios@kog.com",
+      "phone": "+1 (993) 480-2946",
+      "registered": "2023-01-12T07:31:44 -06:-30"
+    },
+    {
+      "teamId": 16,
+      "company": "VALPREAL",
+      "isActive": true,
+      "noOfMembers": 36,
+      "email": "tabatharios@valpreal.com",
+      "phone": "+1 (926) 549-2674",
+      "registered": "2017-03-31T01:46:15 -06:-30"
+    },
+    {
+      "teamId": 17,
+      "company": "SARASONIC",
+      "isActive": true,
+      "noOfMembers": 42,
+      "email": "tabatharios@sarasonic.com",
+      "phone": "+1 (849) 419-3538",
+      "registered": "2022-09-03T06:59:58 -06:-30"
+    },
+    {
+      "teamId": 18,
+      "company": "LUNCHPAD",
+      "isActive": true,
+      "noOfMembers": 13,
+      "email": "tabatharios@lunchpad.com",
+      "phone": "+1 (803) 510-3768",
+      "registered": "2017-04-04T01:10:34 -06:-30"
+    },
+    {
+      "teamId": 19,
+      "company": "CONFRENZY",
+      "isActive": true,
+      "noOfMembers": 4,
+      "email": "tabatharios@confrenzy.com",
+      "phone": "+1 (918) 544-3906",
+      "registered": "2015-10-25T01:59:54 -06:-30"
+    },
+    {
+      "teamId": 20,
+      "company": "ELECTONIC",
+      "isActive": true,
+      "noOfMembers": 22,
+      "email": "tabatharios@electonic.com",
+      "phone": "+1 (972) 595-3267",
+      "registered": "2021-11-30T03:34:06 -06:-30"
+    },
+    {
+      "teamId": 21,
+      "company": "SUPPORTAL",
+      "isActive": true,
+      "noOfMembers": 20,
+      "email": "tabatharios@supportal.com",
+      "phone": "+1 (829) 412-3150",
+      "registered": "2018-12-24T03:30:17 -06:-30"
+    },
+    {
+      "teamId": 22,
+      "company": "TERSANKI",
+      "isActive": false,
+      "noOfMembers": 23,
+      "email": "tabatharios@tersanki.com",
+      "phone": "+1 (841) 553-3851",
+      "registered": "2022-10-24T02:57:21 -06:-30"
+    },
+    {
+      "teamId": 23,
+      "company": "AUTOMON",
+      "isActive": true,
+      "noOfMembers": 49,
+      "email": "tabatharios@automon.com",
+      "phone": "+1 (874) 428-3762",
+      "registered": "2018-06-08T04:41:49 -06:-30"
+    },
+    {
+      "teamId": 24,
+      "company": "REALYSIS",
+      "isActive": false,
+      "noOfMembers": 28,
+      "email": "tabatharios@realysis.com",
+      "phone": "+1 (973) 532-2876",
+      "registered": "2019-04-05T12:20:53 -06:-30"
+    },
+    {
+      "teamId": 25,
+      "company": "CYCLONICA",
+      "isActive": false,
+      "noOfMembers": 15,
+      "email": "tabatharios@cyclonica.com",
+      "phone": "+1 (927) 443-2557",
+      "registered": "2020-02-17T08:22:04 -06:-30"
+    },
+    {
+      "teamId": 26,
+      "company": "COMTOURS",
+      "isActive": true,
+      "noOfMembers": 30,
+      "email": "tabatharios@comtours.com",
+      "phone": "+1 (859) 510-3671",
+      "registered": "2018-05-07T11:54:16 -06:-30"
+    },
+    {
+      "teamId": 27,
+      "company": "BUNGA",
+      "isActive": true,
+      "noOfMembers": 19,
+      "email": "tabatharios@bunga.com",
+      "phone": "+1 (960) 437-3054",
+      "registered": "2016-10-09T11:16:08 -06:-30"
+    },
+    {
+      "teamId": 28,
+      "company": "NETUR",
+      "isActive": false,
+      "noOfMembers": 10,
+      "email": "tabatharios@netur.com",
+      "phone": "+1 (811) 435-2616",
+      "registered": "2017-02-11T03:50:19 -06:-30"
+    },
+    {
+      "teamId": 29,
+      "company": "MONDICIL",
+      "isActive": false,
+      "noOfMembers": 12,
+      "email": "tabatharios@mondicil.com",
+      "phone": "+1 (858) 534-2055",
+      "registered": "2014-10-05T09:53:01 -06:-30"
+    },
+    {
+      "teamId": 30,
+      "company": "QUIZKA",
+      "isActive": true,
+      "noOfMembers": 39,
+      "email": "tabatharios@quizka.com",
+      "phone": "+1 (885) 442-2415",
+      "registered": "2018-07-11T07:57:39 -06:-30"
+    }
+  ]
